@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @ElsiSahayaRenita
-- 👀 I have done my Bachelor of Civil Engineering  from Holycross Engineering College, ANNA UNIVERSITY...
-- 🌱 I have worked as DESIGN ENGINEER in Sivathanu Builders ....
-- 🌱  Currently Doing Data Science......
-- ")   CODING... DATA VISUALIZATION......
 
--  ..
-
-<!---
-ElsiSahayaRenita/ElsiSahayaRenita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
 
